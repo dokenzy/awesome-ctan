@@ -32,6 +32,7 @@
 	- [typed-checklist](#typed-checklist)
 	- [visualpstricks](#visualpstricks)
 - [Formatting](#formatting)
+	- [latexgit](#latexgit)
 	- [listofitems](#listofitems)
 	- [paralist](#paralist)
 	- [scalerel](#scalerel)
@@ -178,6 +179,10 @@
 - ![](images/visualpstricks.png)
 
 ## Formatting
+### latexgit
+- sev­eral macros to fetch git in­for­ma­tion and type­set it.
+- https://www.ctan.org/pkg/latexgit
+
 ### listofitems
 - Grab items in lists using user-specified sep char
 - https://www.ctan.org/pkg/listofitems
