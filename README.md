@@ -32,6 +32,7 @@
 	- [typed-checklist](#typed-checklist)
 	- [visualpstricks](#visualpstricks)
 - [Formatting](#formatting)
+	- [listofitems](#listofitems)
 	- [paralist](#paralist)
 	- [scalerel](#scalerel)
 	- [vwcol](#vwcol)
@@ -177,6 +178,10 @@
 - ![](images/visualpstricks.png)
 
 ## Formatting
+### listofitems
+- Grab items in lists using user-specified sep char
+- https://www.ctan.org/pkg/listofitems
+
 ### paralist
 - Extended List Environments
 - https://www.ctan.org/pkg/paralist
