@@ -43,6 +43,7 @@
 - [Verbatim](#verbatim)
 	- [minted](#minted)
 	- [nodetree](#nodetree)
+	- [shdoc](#shdoc)
 	- [verbments](#verbments)
 
 ## Acronyms and other Abbreviations
@@ -222,8 +223,12 @@
 - https://www.ctan.org/pkg/nodetree
 - ![](images/nodetree.png)
 
+### shdoc
+- Float environment to document the shell commands of a terminal session
+- https://www.ctan.org/pkg/shdoc
+- ![](images/shdoc.png)
+
 ### verbments
 - Syntax highlighting of source code in LATEX documents
 - https://www.ctan.org/pkg/verbments
 - ![](images/verbments.png)
-
