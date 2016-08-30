@@ -30,6 +30,7 @@
 	- [pgfornament](#pgfornament)
 	- [pgf-soroban](#pgf-soroban)
 	- [prerex](#prerex)
+	- [tikz-page](#tikz-page)
 	- [typed-checklist](#typed-checklist)
 	- [visualpstricks](#visualpstricks)
 - [Formatting](#formatting)
@@ -174,6 +175,11 @@
 - Interactive editor and macro support for prerequisite charts
 - https://www.ctan.org/pkg/prerex
 - ![](images/prerex.png)
+
+### tikz-page
+- Small macro to help building nice and complex layout materials
+- https://www.ctan.org/pkg/tikz-page
+- ![](images/tikz-page.png)
 
 ### typed-checklist
 - Typesetting tasks, goals, milestones, artifacts, and more in LATEX
