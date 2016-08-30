@@ -33,6 +33,8 @@
 	- [typed-checklist](#typed-checklist)
 	- [visualpstricks](#visualpstricks)
 - [Formatting](#formatting)
+	- [latexgit](#latexgit)
+	- [listofitems](#listofitems)
 	- [paralist](#paralist)
 	- [scalerel](#scalerel)
 	- [vwcol](#vwcol)
@@ -42,6 +44,7 @@
 - [Verbatim](#verbatim)
 	- [minted](#minted)
 	- [nodetree](#nodetree)
+	- [shdoc](#shdoc)
 	- [verbments](#verbments)
 
 ## Acronyms and other Abbreviations
@@ -183,6 +186,14 @@
 - ![](images/visualpstricks.png)
 
 ## Formatting
+### latexgit
+- sev­eral macros to fetch git in­for­ma­tion and type­set it.
+- https://www.ctan.org/pkg/latexgit
+
+### listofitems
+- Grab items in lists using user-specified sep char
+- https://www.ctan.org/pkg/listofitems
+
 ### paralist
 - Extended List Environments
 - https://www.ctan.org/pkg/paralist
@@ -218,8 +229,12 @@
 - https://www.ctan.org/pkg/nodetree
 - ![](images/nodetree.png)
 
+### shdoc
+- Float environment to document the shell commands of a terminal session
+- https://www.ctan.org/pkg/shdoc
+- ![](images/shdoc.png)
+
 ### verbments
 - Syntax highlighting of source code in LATEX documents
 - https://www.ctan.org/pkg/verbments
 - ![](images/verbments.png)
-
