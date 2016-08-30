@@ -22,6 +22,7 @@
 - [Page & Layout](#page-&-layout)
 	- [bookcover](#bookcover) 
 	- [changepage](#changepage)
+	- [fancyhdr](#fancyhdr)
 	- [fancypar](#fancypar)
 	- [lastpage](#lastpage)
 	- [todonotes](#todonotes)
@@ -131,6 +132,11 @@
 ### changepage
 - Provides command `\ifoddpage` to detect the current page `side`, environment adjustwidth to locally change the margins of the text, and commands `changetext` and `changepage` for more radical changes to the page design mid-way through a document.
 - https://www.ctan.org/pkg/changepage
+
+### fancyhdr
+- five predefined decorative styles for individual text para- graphs of a document
+- https://www.ctan.org/pkg/fancyhdr
+- ![](images/fancyhdr.png)
 
 ### fancypar
 - five predefined decorative styles for individual text para- graphs of a document
