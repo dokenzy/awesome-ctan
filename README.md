@@ -10,6 +10,7 @@
 	- [asapsym](#asapsym)
 	- [bitpattern](#bitpattern)
 	- [ccicons](#ccicons)
+	- [chemformula](#chemformula)
 	- [fontmfizz](#fontmfizz)
 	- [flowchart](#flowchart)
 	- [mdframed](#mdframed)
@@ -70,6 +71,11 @@
 - Creative Commons Icons
 - https://www.ctan.org/pkg/ccicons
 - ![](images/ccicons.png)
+
+### chemformula
+- Command for typesetting chemical formulas and reactions
+- https://www.ctan.org/pkg/chemformula
+- ![](images/chemformula.png)
 
 ### fontmfizz
 - simple font icons
