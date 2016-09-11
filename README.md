@@ -23,7 +23,6 @@
 	- [mdframed](#mdframed)
 	- [register](#register)
 	- [marvosym](#marvosym)
-	- [pgfgantt](#pgfgantt)
 	- [siunitx](#siunitx)
 	- [tabu](#tabu)
 	- [tcolorbox](#tcolorbox)
@@ -35,16 +34,17 @@
 	- [lastpage](#lastpage)
 	- [todonotes](#todonotes)
 	- [navigator](#navigator)
-	- [pgfornament](#pgfornament)
-	- [pgf-soroban](#pgf-soroban)
 	- [prerex](#prerex)
-	- [tikz-page](#tikz-page)
 	- [typed-checklist](#typed-checklist)
 	- [visualpstricks](#visualpstricks)
 - [PDF](#pdf)
 	- [pdfpages](#pdfpages)
 - [Tikz](#tikz)
 	- [circuitikz](#circuitikz)
+	- [pgf-soroban](#pgf-soroban)
+	- [pgfgantt](#pgfgantt)
+	- [pgfornament](#pgfornament)
+	- [tikz-page](#tikz-page)
 - [Verbatim](#verbatim)
 	- [minted](#minted)
 	- [nodetree](#nodetree)
@@ -142,11 +142,6 @@
 - https://www.ctan.org/pkg/marvosym
 - ![](images/marvosym.png)
 
-### pgfgantt
-- ganttchart environment, which draws a Gantt chart within a TikZ picture
-- https://www.ctan.org/pkg/pgfgantt
-- ![](images/pdfgantt.png)
-
 ### siunitx
 - A comprehensive (SI) units package
 - https://www.ctan.org/pkg/siunitx
@@ -196,25 +191,10 @@
 - access to PDF features such as outlines (book- marks), links, actions and embedded files
 - https://www.ctan.org/pkg/navigator
 
-### pgfornament
-- Drawing of Vectorian ornaments with PGF/TikZ
-- https://www.ctan.org/pkg/pgfornament
-- ![](images/pgfornament.png)
-
-### pgf-soroban
-- Create images of the soroban using TikZ/PGF(주판)
-- https://www.ctan.org/pkg/pgf-soroban
-- ![](images/pgf-soroban.png)
-
 ### prerex
 - Interactive editor and macro support for prerequisite charts
 - https://www.ctan.org/pkg/prerex
 - ![](images/prerex.png)
-
-### tikz-page
-- Small macro to help building nice and complex layout materials
-- https://www.ctan.org/pkg/tikz-page
-- ![](images/tikz-page.png)
 
 ### typed-checklist
 - Typesetting tasks, goals, milestones, artifacts, and more in LATEX
@@ -237,6 +217,26 @@
 - the insertion of external multi-page PDF or PS documents
 - https://www.ctan.org/pkg/circuitikz
 - ![](http://ctan.org/teaser/pkg/circuitikz)
+
+### pgf-soroban
+- Create images of the soroban using TikZ/PGF(주판)
+- https://www.ctan.org/pkg/pgf-soroban
+- ![](images/pgf-soroban.png)
+
+### pgfgantt
+- ganttchart environment, which draws a Gantt chart within a TikZ picture
+- https://www.ctan.org/pkg/pgfgantt
+- ![](images/pdfgantt.png)
+
+### pgfornament
+- Drawing of Vectorian ornaments with PGF/TikZ
+- https://www.ctan.org/pkg/pgfornament
+- ![](images/pgfornament.png)
+
+### tikz-page
+- Small macro to help building nice and complex layout materials
+- https://www.ctan.org/pkg/tikz-page
+- ![](images/tikz-page.png)
 
 ## Verbatim
 ### minted
