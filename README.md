@@ -43,6 +43,8 @@
 	- [visualpstricks](#visualpstricks)
 - [PDF](#pdf)
 	- [pdfpages](#pdfpages)
+- [Tikz](#tikz)
+	- [circuitikz](#circuitikz)
 - [Verbatim](#verbatim)
 	- [minted](#minted)
 	- [nodetree](#nodetree)
@@ -229,6 +231,12 @@
 - the insertion of external multi-page PDF or PS documents
 - https://www.ctan.org/pkg/pdfpages
 - ![](images/pdfpages.png)
+
+## Tikz
+### circuitikz
+- the insertion of external multi-page PDF or PS documents
+- https://www.ctan.org/pkg/circuitikz
+- ![](http://ctan.org/teaser/pkg/circuitikz)
 
 ## Verbatim
 ### minted
