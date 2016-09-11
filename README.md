@@ -6,6 +6,13 @@
 	- [Metropolis](#metropolis)
 - [Color](#color)
 	- [xcolor-solarized](#xcolor-solarized)
+- [Formatting](#formatting)
+	- [latexgit](#latexgit)
+	- [listofitems](#listofitems)
+	- [paralist](#paralist)
+	- [scalerel](#scalerel)
+	- [vwcol](#vwcol)
+	- [wallpaper](#wallpaper)
 - [Graphics](#graphics)
 	- [asapsym](#asapsym)
 	- [bitpattern](#bitpattern)
@@ -34,13 +41,6 @@
 	- [tikz-page](#tikz-page)
 	- [typed-checklist](#typed-checklist)
 	- [visualpstricks](#visualpstricks)
-- [Formatting](#formatting)
-	- [latexgit](#latexgit)
-	- [listofitems](#listofitems)
-	- [paralist](#paralist)
-	- [scalerel](#scalerel)
-	- [vwcol](#vwcol)
-	- [wallpaper](#wallpaper)
 - [PDF](#pdf)
 	- [pdfpages](#pdfpages)
 - [Verbatim](#verbatim)
@@ -55,6 +55,44 @@
 - Typeset Acronyms and other Abbreviations
 - https://www.ctan.org/pkg/acro
 - ![](images/acro.png)
+
+## color
+### xcolor-solarized
+- the sixteen colors of Ethan Schoonover’s popular color palette, Solarized
+- https://www.ctan.org/pkg/xcolor-solarized
+- ![xcolor-solarized](images/xcolor-solarized.png "xcolor-solarized")
+
+## Beamer
+### Metropolis
+- a simple, modern Beamer theme suitable for anyone to use
+- https://www.ctan.org/pkg/beamertheme-metropolis
+
+## Formatting
+### latexgit
+- sev­eral macros to fetch git in­for­ma­tion and type­set it.
+- https://www.ctan.org/pkg/latexgit
+
+### listofitems
+- Grab items in lists using user-specified sep char
+- https://www.ctan.org/pkg/listofitems
+
+### paralist
+- Extended List Environments
+- https://www.ctan.org/pkg/paralist
+
+### scalerel
+- Constrained scaling and stretching of objects
+- https://www.ctan.org/pkg/scalerel
+- ![](images/scalerel.png)
+
+### vwcol
+- Variable-width multiple text columns
+- https://www.ctan.org/pkg/vwcol
+- ![](images/vwcol.png)
+
+### wallpaper
+- Easy addition of wallpapers (background images) to LATEX documents, including tiling
+- https://www.ctan.org/pkg/wallpaper
 
 ## Graphics
 ### asapsym
@@ -122,17 +160,6 @@
 - https://www.ctan.org/pkg/tcolorbox
 - ![](images/tcolorbox.png)
 
-## color
-### xcolor-solarized
-- the sixteen colors of Ethan Schoonover’s popular color palette, Solarized
-- https://www.ctan.org/pkg/xcolor-solarized
-- ![xcolor-solarized](images/xcolor-solarized.png "xcolor-solarized")
-
-## Beamer
-### Metropolis
-- a simple, modern Beamer theme suitable for anyone to use
-- https://www.ctan.org/pkg/beamertheme-metropolis
-
 ## Page & Layout
 ### bookcover
 - Class for book covers and dust jackets
@@ -196,33 +223,6 @@
 - Visual help for PSTricks based on images with minimum text
 - https://www.ctan.org/pkg/visualpstricks
 - ![](images/visualpstricks.png)
-
-## Formatting
-### latexgit
-- sev­eral macros to fetch git in­for­ma­tion and type­set it.
-- https://www.ctan.org/pkg/latexgit
-
-### listofitems
-- Grab items in lists using user-specified sep char
-- https://www.ctan.org/pkg/listofitems
-
-### paralist
-- Extended List Environments
-- https://www.ctan.org/pkg/paralist
-
-### scalerel
-- Constrained scaling and stretching of objects
-- https://www.ctan.org/pkg/scalerel
-- ![](images/scalerel.png)
-
-### vwcol
-- Variable-width multiple text columns
-- https://www.ctan.org/pkg/vwcol
-- ![](images/vwcol.png)
-
-### wallpaper
-- Easy addition of wallpapers (background images) to LATEX documents, including tiling
-- https://www.ctan.org/pkg/wallpaper
 
 ## PDF
 ### pdfpages
