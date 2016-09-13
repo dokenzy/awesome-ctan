@@ -7,6 +7,7 @@
 - [Color](#color)
 	- [xcolor-solarized](#xcolor-solarized)
 - [Formatting](#formatting)
+	- [etoc](#etoc)
 	- [latexgit](#latexgit)
 	- [listofitems](#listofitems)
 	- [paralist](#paralist)
@@ -70,6 +71,11 @@
 - https://www.ctan.org/pkg/beamertheme-metropolis
 
 ## Formatting
+### etoc
+- Completely customisable TOCs
+- https://www.ctan.org/pkg/etoc
+- ![](images/etoc.png)
+
 ### latexgit
 - sev­eral macros to fetch git in­for­ma­tion and type­set it.
 - https://www.ctan.org/pkg/latexgit
