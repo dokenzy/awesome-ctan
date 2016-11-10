@@ -46,6 +46,7 @@
 	- [pgfgantt](#pgfgantt)
 	- [pgfornament](#pgfornament)
 	- [tikz-page](#tikz-page)
+	- [tikzpeople](#tikzpeople)
 - [Verbatim](#verbatim)
 	- [minted](#minted)
 	- [nodetree](#nodetree)
@@ -243,6 +244,11 @@
 - Small macro to help building nice and complex layout materials
 - https://www.ctan.org/pkg/tikz-page
 - ![](images/tikz-page.png)
+
+### tikzpeople
+- peo­ple-shaped nodes in the style of Mi­crosoft Vi­sio clip art, to be used with TikZ
+- https://www.ctan.org/pkg/tikzpeople
+- ![](images/tikzpeople.png)
 
 ## Verbatim
 ### minted
