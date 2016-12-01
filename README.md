@@ -7,6 +7,7 @@
 - [Color](#color)
 	- [xcolor-solarized](#xcolor-solarized)
 - [Formatting](#formatting)
+	- [awesomebox](#awesomebox)
 	- [etoc](#etoc)
 	- [latexgit](#latexgit)
 	- [listofitems](#listofitems)
@@ -28,7 +29,7 @@
 	- [tabu](#tabu)
 	- [tcolorbox](#tcolorbox)
 - [Page & Layout](#page-&-layout)
-	- [bookcover](#bookcover) 
+	- [bookcover](#bookcover)
 	- [changepage](#changepage)
 	- [fancyhdr](#fancyhdr)
 	- [fancypar](#fancypar)
@@ -72,6 +73,11 @@
 - https://www.ctan.org/pkg/beamertheme-metropolis
 
 ## Formatting
+### awesomebox
+- Draw admonition blocks in your documents, illustrated with FontAwesome icons
+- https://www.ctan.org/pkg/awesomebox
+- ![](images/awesomebox.png)
+
 ### etoc
 - Completely customisable TOCs
 - https://www.ctan.org/pkg/etoc
