@@ -25,6 +25,7 @@
 	- [mdframed](#mdframed)
 	- [register](#register)
 	- [marvosym](#marvosym)
+	- [pst-geo](#pst-geo)
 	- [siunitx](#siunitx)
 	- [tabu](#tabu)
 	- [tcolorbox](#tcolorbox)
@@ -154,6 +155,11 @@
 - MarVoSym.ttf
 - https://www.ctan.org/pkg/marvosym
 - ![](images/marvosym.png)
+
+### pst-geo
+- Geographical Projections
+- https://www.ctan.org/pkg/pst-geo
+- ![](images/pst-geo.png)
 
 ### siunitx
 - A comprehensive (SI) units package
