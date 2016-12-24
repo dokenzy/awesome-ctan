@@ -26,6 +26,7 @@
 	- [register](#register)
 	- [marvosym](#marvosym)
 	- [pst-geo](#pst-geo)
+	- [pst-uml](#pst-uml)
 	- [siunitx](#siunitx)
 	- [smartdiagram](#smartdiagram)
 	- [tabu](#tabu)
@@ -161,6 +162,11 @@
 - Geographical Projections
 - https://www.ctan.org/pkg/pst-geo
 - ![](images/pst-geo.png)
+
+### pst-uml
+- UML diagrams with PSTricks
+- https://www.ctan.org/pkg/pst-uml
+- ![](images/pst-uml.png)
 
 ### siunitx
 - A comprehensive (SI) units package
