@@ -27,6 +27,7 @@
 	- [marvosym](#marvosym)
 	- [pst-geo](#pst-geo)
 	- [siunitx](#siunitx)
+	- [smartdiagram](#smartdiagram)
 	- [tabu](#tabu)
 	- [tcolorbox](#tcolorbox)
 - [Page & Layout](#page-&-layout)
@@ -165,6 +166,11 @@
 - A comprehensive (SI) units package
 - https://www.ctan.org/pkg/siunitx
 - ![](images/siunitx.png)
+
+### smartdiagram
+- Generate diagrams from lists
+- https://www.ctan.org/pkg/smartdiagram
+- ![](images/smartdiagram.png)
 
 ### tabu
 - Flexible LATEX tabulars
