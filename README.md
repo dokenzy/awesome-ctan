@@ -21,6 +21,7 @@
 	- [ccicons](#ccicons)
 	- [chemformula](#chemformula)
 	- [fontmfizz](#fontmfizz)
+	- [fgruler](#fgruler)
 	- [flowchart](#flowchart)
 	- [mdframed](#mdframed)
 	- [register](#register)
@@ -137,6 +138,11 @@
 - simple font icons
 - https://www.ctan.org/pkg/fontmfizz
 - ![](images/fontmfizz.png)
+
+### fgruler
+- draws rulers on the foreground or in the text
+- https://www.ctan.org/pkg/fgruler
+- ![](images/fgruler.png)
 
 ### flowchart
 - for drawing program flowcharts
