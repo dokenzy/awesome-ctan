@@ -53,6 +53,7 @@
 	- [tikz-page](#tikz-page)
 	- [tikzpeople](#tikzpeople)
 - [Verbatim](#verbatim)
+	- [latexindent](#latexindent)
 	- [minted](#minted)
 	- [nodetree](#nodetree)
 	- [shdoc](#shdoc)
@@ -281,6 +282,11 @@
 - ![](images/tikzpeople.png)
 
 ## Verbatim
+### latexindent
+- Indent a LATEX document, highlighting the programming structure
+- https://www.ctan.org/pkg/latexindent
+- ![](images/latexindent.png)
+
 ### minted
 - Highlighted source code in LATEX
 - https://www.ctan.org/pkg/minted
